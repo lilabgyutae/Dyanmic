@@ -1,0 +1,329 @@
+,sentence,label
+0,You guys provide EMI option?,emi
+1,Do you offer Zero Percent EMI payment options?,emi
+2,0% EMI.,emi
+3,EMI,emi
+4,I want in installment,emi
+5,I want it on 0% interest,emi
+6,How to get in EMI,emi
+7,what about emi options,emi
+8,I need emi payment. ,emi
+9,How to EMI,emi
+10,I want to buy on EMI,emi
+11,I want to buy this in installments,emi
+12,0% Emi,emi
+13,Down payments,emi
+14,Installments,emi
+15,How about Paisa finance,emi
+16,Paisa finance service available,emi
+17,What is minimum down payment,emi
+18,Paisa Finance is available,emi
+19,Do you accept Paisa EMI card,emi
+20,Can we buy through Paisa finance,emi
+21,EMI Option,emi
+22,Paisa Finance,emi
+23,No cost EMI is available?,emi
+24,Is EMI available,emi
+25,COD option is availble?,cod
+26,Do you offer COD to my pincode?,cod
+27,Can I do COD?,cod
+28,COD,cod
+29,Is it possible to COD,cod
+30,Cash on delivery is acceptable?,cod
+31,Can pay later on delivery ,cod
+32,DO you have COD option,cod
+33,Can it deliver by COD,cod
+34,Is COD option available,cod
+35,Can I get COD option?,cod
+36,Cash on delivery is available,cod
+37,Features of Ortho mattress,ortho_features
+38,What are the key features of the SOF Ortho mattress,ortho_features
+39,SOF ortho,ortho_features
+40,Ortho mattress,ortho_features
+41,Ortho features,ortho_features
+42,ortho,ortho_features
+43,Tell me about SOF Ortho mattress,ortho_features
+44,Have a back problem,ortho_features
+45,I have back pain issue,ortho_features
+46,Back Pain,ortho_features
+47,Is it orthopaedic,ortho_features
+48,Neck pain and back pain,ortho_features
+49,back ache issue,ortho_features
+50,I m looking mattress for slip disc problem,ortho_features
+51,Do we have anything for backache,ortho_features
+52,I am cervical and Lombard section problem,ortho_features
+53,Is there orthopedic mattress available,ortho_features
+54,What are the key features of the SOF Ergo mattress,ergo_features
+55,Features of Ergo mattress,ergo_features
+56,SOF ergo,ergo_features
+57,Ergo mattress,ergo_features
+58,Ergo features,ergo_features
+59,Ergo,ergo_features
+60,Tell me about SOF Ergo mattress,ergo_features
+61,What about ergo,ergo_features
+62,What is responsive foam,ergo_features
+63,SOF ergo features,ergo_features
+64,Does this have ergonomic support?,ergo_features
+65,What is the difference between the Ergo & Ortho variants,comparison
+66,Difference between Ergo & Ortho Mattress,comparison
+67,Difference between the products,comparison
+68,Compare the 2 mattresses,comparison
+69,Product comparison,comparison
+70, Comparison,comparison
+71,Which mattress to buy?,comparison
+72,Is the mattress good for my back,comparison
+73,Mattress comparison,comparison
+74,Compare ergo & ortho variants,comparison
+75,I wanna know the difference,comparison
+76,What is the warranty period?,warranty
+77,Warranty,warranty
+78,Does mattress cover is included in warranty,warranty
+79,How long is the warranty you offer on your mattresses and what does it cover,warranty
+80,Do you offer warranty ,warranty
+81,Tell me about the product warranty,warranty
+82,Share warranty information,warranty
+83,Need to know the warranty details,warranty
+84,Want to know about warranty,warranty
+85,would interested in warranty details,warranty
+86,How does the 100 night trial work,100_night_trial_offer
+87,What is the 100-night offer,100_night_trial_offer
+88,Trial details,100_night_trial_offer
+89,How to enroll for trial,100_night_trial_offer
+90,100 night trial,100_night_trial_offer
+91,Is the 100 night return trial applicable for custom size as well,100_night_trial_offer
+92,100 night,100_night_trial_offer
+93,Trial offer on customisation,100_night_trial_offer
+94,do you provide exchange,100_night_trial_offer
+95,Can I try a mattress first,100_night_trial_offer
+96,I want to check offers,100_night_trial_offer
+97,What is 100 Night trial offer,100_night_trial_offer
+98,Need 100 days trial,100_night_trial_offer
+99,100 days trial,100_night_trial_offer
+100,Can I get free trial,100_night_trial_offer
+101,100 Nights trial version,100_night_trial_offer
+102, Can you give me 100 night trial ,100_night_trial_offer
+103,100 free Nights,100_night_trial_offer
+104,I want to change the size of the mattress.,size_customization
+105,Need some help in changing size of the mattress,size_customization
+106,How can I order a custom sized mattress,size_customization
+107,Custom size,size_customization
+108,Customise size ,size_customization
+109,Customisation is possible?,size_customization
+110,Will I get an option to Customise the size,size_customization
+111,Can mattress size be customised?,size_customization
+112,Mattress size change,size_customization
+113,Can you help with the size?,what_size_to_order
+114,How do I know what size to order?,what_size_to_order
+115,How do I know the size of my bed?,what_size_to_order
+116,Inches,what_size_to_order
+117,Length,what_size_to_order
+118,Feet,what_size_to_order
+119,6*3,what_size_to_order
+120,Help me with the size chart,what_size_to_order
+121,What are the available sizes?,what_size_to_order
+122,Can I please have the size chart?,what_size_to_order
+123,Share the size structure,what_size_to_order
+124,What are the sizes available?,what_size_to_order
+125,Want to know the custom size chart,what_size_to_order
+126,Mattress size,what_size_to_order
+127, What size to order?,what_size_to_order
+128,Show me all available sizes,what_size_to_order
+129,What are the sizes,what_size_to_order
+130,What are the available mattress sizes,what_size_to_order
+131,King Size,what_size_to_order
+132,Inches,what_size_to_order
+133,Get in Touch,lead_gen
+134,Want to talk to an live agent,lead_gen
+135, Please call me,lead_gen
+136,Do you have Live agent,lead_gen
+137,Want to get in touch,lead_gen
+138, Schedule a callback ,lead_gen
+139, Arrange a call back ,lead_gen
+140,How to get in touch?,lead_gen
+141,Interested in buying,lead_gen
+142,I want to buy this,lead_gen
+143,How to buy?,lead_gen
+144,How to order,lead_gen
+145,I want to order,lead_gen
+146,Connect to an agent,lead_gen
+147,Get In Touch,lead_gen
+148,I want a call back,lead_gen
+149,I need a call back,lead_gen
+150,Please call me back,lead_gen
+151,Call me now,lead_gen
+152,I want to buy,lead_gen
+153,Need a call from your representative,lead_gen
+154,Do you deliver to my pincode,check_pincode
+155,Check pincode,check_pincode
+156,Is delivery possible on this pincode,check_pincode
+157,Will you be able to deliver here,check_pincode
+158,Can you make delivery on this pin code?,check_pincode
+159,Can you deliver on my pincode,check_pincode
+160,Do you deliver to,check_pincode
+161,Can you please deliver on my pincode,check_pincode
+162,Need a delivery on this pincode,check_pincode
+163,Can I get delivery on this pincode,check_pincode
+164,Do you have any showrooms in Delhi state,distributors
+165,Do you have any distributors in Mumbai city,distributors
+166,Do you have any retailers in Pune city,distributors
+167, Where can I see the product before I buy,distributors
+168,What is the price for size (x ft x y ft)? What is the price for size (x inches x y inches)?,distributors
+169,Distributors ,distributors
+170,Distributors/Retailers/Showrooms,distributors
+171,Where is your showroom,distributors
+172,Do you have a showroom,distributors
+173,Can I visit SOF mattress showroom,distributors
+174,Where is your showroom,distributors
+175,Nearby Show room,distributors
+176,Do you have Showroom,distributors
+177,Need store,distributors
+178,Need Nearby Store,distributors
+179,Nearest shop,distributors
+180,Demo store,distributors
+181,Is there any offline stores ,distributors
+182,Head office,distributors
+183,Shops nearby,distributors
+184,Where was this shop,distributors
+185,Offline stores,distributors
+186,Do you have store,distributors
+187,Where is the shop ,distributors
+188,Is it available in shops,distributors
+189,You have any branch,distributors
+190,Store in,distributors
+191,We want dealer ship,distributors
+192,Any shop that I can visit,distributors
+193,Dealership,distributors
+194,Shop near by,distributors
+195,Need dealership,distributors
+196,Outlet,distributors
+197,Store near me,distributors
+198,Price of mattress,mattress_cost
+199,Mattress cost,mattress_cost
+200,Cost of mattress,mattress_cost
+201,How much does a SOF mattress cost,mattress_cost
+202,Cost,mattress_cost
+203,Custom size cost,mattress_cost
+204,What does the mattress cost,mattress_cost
+205,I need price,mattress_cost
+206,Price Range,mattress_cost
+207,Mattress price,mattress_cost
+208,Price of Mattress,mattress_cost
+209,Want to know the price,mattress_cost
+210,How Much Cost,mattress_cost
+211,Price,mattress_cost
+212,Rate,mattress_cost
+213,MRP,mattress_cost
+214,Low price,mattress_cost
+215,What will be the price,mattress_cost
+216,Cost of Bed,mattress_cost
+217,Cost of Mattress,mattress_cost
+218,Mattress cost,mattress_cost
+219,What is the cost,mattress_cost
+220,What are the product variants,product_variants
+221,Product Variants,product_variants
+222,Help me with different products,product_variants
+223,What are the mattress variants,product_variants
+224,I want to check products,product_variants
+225,What are the SOF mattress products,product_variants
+226,Show me products,product_variants
+227,Which product is best,product_variants
+228, Which mattress is best,product_variants
+229,I want to buy a mattress,product_variants
+230,Products,product_variants
+231,View products,product_variants
+232,Type of foam used,product_variants
+233,Mattress variants,product_variants
+234,Mattress Features,product_variants
+235,I am looking the mattress,product_variants
+236,Type of mattress,product_variants
+237,Show more mattress,product_variants
+238,What are the mattress features,product_variants
+239,What are your products,product_variants
+240,Tell me about SOF mattress features,product_variants
+241,How is SOF different from other mattress brands,about_sof_mattress
+242,Why SOF mattress,about_sof_mattress
+243,About SOF Mattress,about_sof_mattress
+244,What is SOF mattress,about_sof_mattress
+245,Tell me about SOF mattresses,about_sof_mattress
+246,Who are SOF mattress,about_sof_mattress
+247,What is SOF,about_sof_mattress
+248,How is SOF mattress different from,about_sof_mattress
+249,Tell me about SOF Mattress,about_sof_mattress
+250,Tell me about company,about_sof_mattress
+251, Who is SOF mattress,about_sof_mattress
+252,It's been a month,delay_in_delivery
+253,Why so long?,delay_in_delivery
+254,I did not receive my order yet,delay_in_delivery
+255,Why so many days,delay_in_delivery
+256,It's delayed,delay_in_delivery
+257,Almost 1 month over,delay_in_delivery
+258, It's been 30 days my product haven't received,delay_in_delivery
+259,It's been so many days,delay_in_delivery
+260,It's already one month,delay_in_delivery
+261,Delivery is delayed,delay_in_delivery
+262,It's too late to get delivered,delay_in_delivery
+263,Order Status,order_status
+264,What is my order status?,order_status
+265,Order related,order_status
+266,Status of my order,order_status
+267,What about my order,order_status
+268,My order Number,order_status
+269,Where is my order,order_status
+270,Order #,order_status
+271,Track order,order_status
+272,I want updates of my order,order_status
+273, I need my order status,order_status
+274,Status of my order,order_status
+275,State of this order,order_status
+276,Order status,order_status
+277,Present status,order_status
+278,What is the status?,order_status
+279,Current state of my order,order_status
+280,What is the order status?,order_status
+281,Where is my product,order_status
+282,When will the order be delivered to me?,order_status
+283,When can we expect,order_status
+284,Need my money back,return_exchange
+285,I want refund,return_exchange
+286,Refund,return_exchange
+287,Not happy with the product please help me to return,return_exchange
+288,Help me with exchange process,return_exchange
+289,How do I return it,return_exchange
+290,I want to return my mattress,return_exchange
+291,Exchange,return_exchange
+292,Looking to exchange,return_exchange
+293,How can I replace the mattress.,return_exchange
+294,How do I return It,return_exchange
+295,Return,return_exchange
+296,Return my product,return_exchange
+297,Replacement policy,return_exchange
+298,I want to cancel my order,cancel_order
+299,How can I cancel my order,cancel_order
+300,Cancel order,cancel_order
+301,Cancellation status,cancel_order
+302,I want cancel my order,cancel_order
+303,Cancel the order,cancel_order
+304,Cancel my order,cancel_order
+305,Need to cancel my order,cancel_order
+306,Process of cancelling order,cancel_order
+307,Can I cancel my order here,cancel_order
+308,Can I get pillows?,pillows
+309,Do you sell pillows?,pillows
+310,Pillows,pillows
+311,I want to buy pillows,pillows
+312,Are Pillows available,pillows
+313,Need pair of Pillows,pillows
+314,Can I buy pillows from here,pillows
+315,Do you have cushions,pillows
+316,Can I also have pillows,pillows
+317,Is pillows available,pillows
+318,Offers,offers
+319,What are the available offers,offers
+320,Give me some discount,offers
+321,Any discounts,offers
+322,Discount,offers
+323,May I please know about the offers,offers
+324,Available offers,offers
+325,Is offer available,offers
+326,Want to know the discount ,offers
+327,Tell me about the latest offers,offers

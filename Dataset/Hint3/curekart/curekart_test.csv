@@ -1,0 +1,462 @@
+,sentence,label
+0,Order my product,order_taking
+2,I want to order Wottle sensitive handwash refill,recommend_product
+3,have u started C D provision for pin code 702164,check_pincode
+6,Hi I'm trying to order some stuff but ut says it cannot be delivered to my pin code.,check_pincode
+10,I need Beginners hair multivitamin,recommend_product
+12,"Right now my weight is less, how much weight can I gain by taking it?",recommend_product
+14,My previous orders of garcenia combogia,order_status
+15,Place an order,order_taking
+16,CureKart immunity tablets,recommend_product
+20,What kind of gelatin you are using in omega 3. Is it halal?,recommend_product
+22,Chat with an Agent,chat_with_agent
+23,Which is the best whey protein,recommend_product
+25,The order not yet delivery,delay_in_parcel
+32,Where to sign up,sign_up
+34,How to buy,recommend_product
+35,What offer on 1199 whey protein,recommend_product
+36,When can I get spectrazole delivered at home,resume_delivery
+40,Any side effects,side_effect
+41,Home gym 30 kg rubber weigh set available,recommend_product
+43,I want rivamal 120 ml in asansol west bengal,check_pincode
+45,How to cancel order,cancel_order
+48,I want to buy this product,recommend_product
+55,Can I get half kg of dark chocolate peanut butter spread,recommend_product
+59,How to place order,order_taking
+60,Want to buy a product,recommend_product
+62,Order or Payment related query,payment_and_bill
+64,Ok I need delivery tomorrow,resume_delivery
+66,How do I know the expiration date of the product that I am going to purchase?,expiry_date
+68,I want to purchase some gym equipment,recommend_product
+69,I am looking for Dumbbells,recommend_product
+71,How can i buy this product,recommend_product
+72,Which is best whey protein,recommend_product
+73,I need the best whey protein,recommend_product
+74,How do i know if protein is original,original_product
+75,Can i get rivamal 120 ml at my home,recommend_product
+76,I am looking for dumble,recommend_product
+78,I want to return myprotein product,refunds_returns_replacements
+87,Do you deliver in vidisha (M.P.) 7021645199,check_pincode
+89,I want to gain weight what us best for me,recommend_product
+91,I need 10kg dumb bells,recommend_product
+93,Ok and l want to by product,recommend_product
+97,Can you cancel my order,cancel_order
+99,I want vitozit,recommend_product
+100,Home delivery available ?,resume_delivery
+101,"Hi, looking for home gym combo",recommend_product
+104,Need to the best plant based organic protein powder,recommend_product
+105,"In west bengal, are you delivering the products in durgapur",resume_delivery
+108,I just paid amount for some products but not visible in my orders,payment_and_bill
+111,How can i trust the authenticity,original_product
+112,Are all the supreme nutrition products genuine?,original_product
+113,I want to gain mass,recommend_product
+114,I need organic i ndia tea,recommend_product
+115,I want to return my last order,refunds_returns_replacements
+116,Looking adjustable dumbbell,recommend_product
+119,How do I buy vitamin shoppe fish oil?,recommend_product
+124,I wanted to buy Home gym,recommend_product
+126,15 days replacement,refunds_returns_replacements
+127,Is there are real products,original_product
+130,Expire date,expiry_date
+131,Best price sambroda muscle mass gainer,recommend_product
+132,Home equipment,recommend_product
+134,I need a combo of gym equipment with dumbles and barbell,recommend_product
+135,how weight gainer is differnt from mass gainer,recommend_product
+136,I want Power Nectar gel tablets,recommend_product
+137,hi want to know about Protinix protein,recommend_product
+139,Doing excessive to build muscle,recommend_product
+140,I want to buy Alivea home gym,recommend_product
+144,Hi. Just want to know if these products are 100% genuine,original_product
+145,How to know if it is genuine,original_product
+147,Can i get delivery before 11am,resume_delivery
+148,How to check the product is original,original_product
+149,Cancel an order,cancel_order
+151,I want sugar free protein whey,recommend_product
+154,It is sure we can gain weight and muscles tight,recommend_product
+155,Authenticity,original_product
+156,My weight is 65kg .is it better to take mass gainer,recommend_product
+162,Hello sir  I want to gain weight and muscular body is this powder helpful  ?,recommend_product
+165,diet and fitness advice,consult_start
+167,I want fixelet resistance tube,recommend_product
+169,Product Recommendations,recommend_product
+172,I'm look for 20kg dumbels,recommend_product
+173,Become a seller,franchise
+176,We got the message product is delivered but it is not delivered,delay_in_parcel
+178,I want to buy ich sensation 93.. but how will I know that what I am buying is not a fake product,original_product
+181,How I return my order delivery?,refunds_returns_replacements
+183,I want 50kg Crossethon kit,recommend_product
+184,cancel product,cancel_order
+187,sir 1 Creatine,recommend_product
+188,Plzzz cancelled my order,cancel_order
+190,CureKart biotin,recommend_product
+196,What if the product you delivered is duplicate,original_product
+198,Wei8 nutrition lean mass 35g,recommend_product
+199,Show products for Lean,recommend_product
+200,I want 2 track my order,order_status
+201,Wigzin 270 I would like to buy,recommend_product
+204,Can you please send me two bottles of Sorjio powder on COD basis ?,order_taking
+206,I want chocolate quoreez peanut butter,recommend_product
+208,expiry of product,expiry_date
+209,How we know is this original??,original_product
+211,I WANT TO SELL PRODUCTS IN CUREKART,franchise
+212,I want a weight gainer,recommend_product
+214,I just want to know about return policy,refunds_returns_replacements
+216,I am 17 year old can I take protein,recommend_product
+217,Why service is not available in my pin code no 7021645199,check_pincode
+218,How much it takes to gain mass in good quantity,recommend_product
+219,"Body Gainz 50Kg Rubber Weight Plates Home Gym Fitness Package 4 Rods Gym Bag and Gym Accessories
+",recommend_product
+225,cancel oder,cancel_order
+226,My age is 40. Need suppliment for mussels,recommend_product
+227,May i know when it will be dilivered,order_status
+231,I want to grow my body,recommend_product
+232,Which one is better musclebuild biozyme or musclebuild bold,recommend_product
+244,Could you  please tell me expire date,expiry_date
+245,I cancel my order,cancel_order
+246,Expire date,expiry_date
+248,I didn't receive my order,delay_in_parcel
+252,Original supplement,original_product
+254,Need multivitamin,recommend_product
+261,Folodys 40 kg home gym,recommend_product
+262,I want to weight loss than which product will be helpful for me kindly guide me about the product. How much it is beneficial...,recommend_product
+263,Sir woman fat burner price,recommend_product
+264,"I want wrist cum palm support for general , knew support, use of amino acid, b protein for women, posture corrector",recommend_product
+268,Chep Protein,recommend_product
+269,Want to buy,recommend_product
+275,Can it help to gain weight,recommend_product
+277,Hi how to check its authenticity,original_product
+278,How can i order,order_taking
+279,How to check authenticity of ON product,original_product
+280,I am athlete so which protein powder I intake,recommend_product
+281,Looking for ichpure but this much be the old stock,recommend_product
+282,Want to buy gluco card 01 sensor strips,recommend_product
+288,I want to cancle my product,cancel_order
+289,Show products for Heart Care,recommend_product
+291,Is it deliverable to Paris ?,check_pincode
+292,I want to sell my product,franchise
+293,I want to loose my weight as I am a working women.,recommend_product
+295,how can i sell on curekart?,franchise
+296,i want to know about sambroda mass gainer,recommend_product
+302,Janak puri new delhi store is open or shut,store_information
+303,Can medicine be purchase physically from your centre,store_information
+309,I have query related to Payments & Bill,payment_and_bill
+311,How to find original product,original_product
+315,take my reassesment,user_goal_form
+316,I want to know which product is best for weight loss for women,recommend_product
+317,Seller,franchise
+323,Sportan Fitness Let Pull Square Home Gym,recommend_product
+325,Do you have door delivery in Cochin ?,check_pincode
+328,Multi vitamins are made from herbs and vegetables,recommend_product
+329,I want chocolate flavour quoreez peanut butter,recommend_product
+331,Call me,call_center
+333,"Hi, what is the product expiry day",expiry_date
+335,How can i grow my body,recommend_product
+336,My pin code available,check_pincode
+340,Are all the products genuine and have a hologram on the box??,original_product
+341,Need swiftlens prosthtic lens,recommend_product
+344,Take Re-assessment,user_goal_form
+345,i have a product to sell on any well eminent e-commerce platform. Is it this platform awailable for me,franchise
+346,How can i believe it is original product?,original_product
+347,i wan't cancel my 1st Order,cancel_order
+348,How much weight can be lost in  a month with this along with a proper diet plan,consult_start
+351,Please Refund & Repayment my product,refunds_returns_replacements
+352,Please cancel my order,cancel_order
+354,Show products for Weight Management,recommend_product
+355,How to inditify product,original_product
+357,Help with product,recommend_product
+359,How much this product is close to the expiry?,expiry_date
+360,Weight grain,recommend_product
+362,I want chocolate flavour peanut butter,recommend_product
+366,What is your customer care number?,call_center
+367,Confused about size,recommend_product
+368,My order is being delivered very late so I want to cancel it,cancel_order
+369,I want to sell on curekart,franchise
+370,This is good product for weight gain,recommend_product
+371,Return my order,refunds_returns_replacements
+372,I want to buy this product.,recommend_product
+373,Why are you not delivering in my pincode,check_pincode
+376,I need omega 3 fatty acid. Which is the best?,recommend_product
+378,𝓘 𝔀𝓪𝓷𝓽 𝓬𝓪𝓷𝓬𝓵𝓮 𝓸𝓻𝓭𝓮𝓻,cancel_order
+379,When will I get my order?,order_status
+380,Which is best if working out at home Masx gainer or Whey Protein,recommend_product
+381,"I need a apple cider vinegar to reduce belly fat, which one is best",recommend_product
+384,How can i place a order,order_taking
+385,I want to order,order_taking
+386,Authencity of product,original_product
+387,I want weight loss inch capsules,recommend_product
+388,In how many months we weight gain,consult_start
+389,I want talk,chat_with_agent
+391,I need a modiyos weights kit,recommend_product
+394,I want to know about my refund or replacement,refunds_returns_replacements
+395,which whey protein is best,recommend_product
+396,what u recommend for best multivitamin,recommend_product
+398,if ur product is fake will u take it back ?,original_product
+403,My pincode is 7021645199,check_pincode
+404,I want to buy home gym set,recommend_product
+405,Tell me about omega-3 capsules,recommend_product
+406,I wanna confirm the expiry date of this product,expiry_date
+407,When can I get biotin?,recommend_product
+408,Need a quick fat burner,recommend_product
+409,CureKart not delivering product in my location,check_pincode
+414,Weight loss protein,recommend_product
+417,Ich sensation protein,recommend_product
+423,Need to return,refunds_returns_replacements
+425,What if the product i receive is a duplicate product,original_product
+427,Hey i am 18 year old n im tryn to loose body weight so recammend  me gud supp which will help in fat loos,recommend_product
+428,Can I get delivery of gym equipments,resume_delivery
+431,Went to purchase this product,recommend_product
+432,Multitab Silver,recommend_product
+434,I was looking to buy a product but I am little confused,recommend_product
+437,Want to return the product,refunds_returns_replacements
+439,need to chat with a representative,chat_with_agent
+441,Is the products original?,original_product
+451,Please Replacement product. Product box not,refunds_returns_replacements
+453,Sir I am so weak my age is 17 years how can I gain weight,recommend_product
+455,i want to sell my product on curekart,franchise
+457,Is ashvagandha gain my waight,recommend_product
+463,"I need to cancel my order
+",cancel_order
+464,I would like to change my product,refunds_returns_replacements
+466,I was need gym stuff,recommend_product
+469,Want to order glimzy roll,recommend_product
+471,Is that Herbalife products in your app are authentic??,original_product
+473,I require Triocin 150mgtab 20 nos and lufsith ear drops 1,recommend_product
+474,Combo gym set,recommend_product
+475,Any one can use calcium tablets,recommend_product
+476,I need dumbells of 2.5 kg,recommend_product
+478,i want capsule for increase my size,recommend_product
+485,Can I come visit?,store_information
+486,Show me cheapest whey protein,recommend_product
+487,I want to purchase shavellete sensor Excell blades,recommend_product
+489,My frnds recomand ichpure low carb and ich sensation 93 for waight loss,recommend_product
+490,I need this on shaker bottle,recommend_product
+492,how to sell on curekart,franchise
+493,Hi i want to enroll my self as a seller,franchise
+494,Hi... The product in my cart says can't be delivered in my pincode ?? Can you help me out.,check_pincode
+496,I required nepro hp,recommend_product
+497,How do I know protein is authentic,original_product
+501,What is best product for weight gain,recommend_product
+503,My product was supposed to be delivered yesterday...but i havent recieved it,delay_in_parcel
+507,I just want a diet  chart. I have started gym 3 days before i want to gain mass,consult_start
+508,Diet,consult_start
+510,Sir am a bigner,recommend_product
+512,How and where to place my order?,order_taking
+514,i am a beginner. and i have some gym products at home. i do exercise at home but not so hard.,recommend_product
+516,"Hi, I am looking for home gym equipment ",recommend_product
+517,U r giving pathetic service it was prepaid order only,chat_with_agent
+521,Vytal supplements,recommend_product
+522,Can i get it today??,resume_delivery
+523,There is any supplement to protect hair loss without any side effect,recommend_product
+525,Mushulk 5 kg whey protein price,recommend_product
+532,Which is best glutathione,recommend_product
+535,Why I am not able to find curekart beginners multivitamin 90tablets  for men,recommend_product
+536,Hii I want to loss weight can u gave me diet plan,consult_start
+537,DIET PLANE FOR LOSING WEIGHT,consult_start
+540,I need a lean bulking diet,consult_start
+541,How can i check my order it is original or not .. do you provide scan n check ?? Label on the product,original_product
+543,Hi Cure Kart i have ordered a product but address is wrong,modify_address
+544,Clear muscel product,recommend_product
+545,This protein is genuine or not?,original_product
+546,Contact,chat_with_agent
+548,Hello sir immunity plus purchases,recommend_product
+549,Best supplement for teenage girl 1717age,recommend_product
+553,How do i become a seller on curekart? Please guide,franchise
+554,Meal replacement,refunds_returns_replacements
+555,Can I talk to your coustmer executive,chat_with_agent
+557,U guys don't deliver in time,delay_in_parcel
+560,Any store in Kolkata?,store_information
+561,U all are useless,chat_with_agent
+562,Muscle Hulk raw whey protein how to authentic,original_product
+566,Hi need one kit,recommend_product
+570,If i. Cancel the order now then in how many days i will get the refund. I have dond payment through upi,refunds_returns_replacements
+576,How to used bt mass gainer,recommend_product
+578,Hii...plz recommend me best fat burner product,recommend_product
+586,Hi can I know the use of glutathione,recommend_product
+587,How to check aunthentic or without authentic,original_product
+588,Whey protein,recommend_product
+589,I want to place order for a product,order_taking
+590,Is there any authticity mark on products,original_product
+591,I want to check authenticity of my product,original_product
+593,Where it is exactly reached,order_status
+594,Please cacel my order,cancel_order
+595,I want gain weight,recommend_product
+596,My.fast porotin,recommend_product
+597,Want to.take a protein powder fr my weight loss,recommend_product
+612,Is there any gym kit for home,recommend_product
+615,Which protein is best for the age of 18,recommend_product
+621,Can I Get My Order Tomorrow,order_status
+624,Show products for Bulk,recommend_product
+626,if i want to cut my fat and want to build muscle should i take creatine,recommend_product
+627,Need gainer,recommend_product
+630,I want a glutamine,recommend_product
+631,Multivitamin tablet,recommend_product
+632,Best for men hair,recommend_product
+639,When I get my order,order_status
+644,Need fish oil,recommend_product
+645,Required whey protein,recommend_product
+646,Is there any side effect,side_effect
+648,My place is in containment zone will i still get the product on the predicted delivery date,order_status
+649,i would buy weight gain pills or supplyment for women,recommend_product
+650,I want to back my money,refunds_returns_replacements
+653,Hi actually may I know is there any side effects of this protein,side_effect
+656,Can i eat l arginine,recommend_product
+657,I would like to cancel my ordee,cancel_order
+659,How to place order for 30  tablets ? It is not allowing me to order on COD.,order_taking
+661,Can u delivered to ramnagar uttarakhand,check_pincode
+663,I can cancel my order,cancel_order
+666,Hi I need a home gym,recommend_product
+667,order not received,delay_in_parcel
+671,I just cancel my order,cancel_order
+673,how could I register as seller,franchise
+675,I would like to buy Burkhland signature calcium citrate,recommend_product
+676,diet plan for weight gain,consult_start
+678,Bro is your shop open tomorrow,store_information
+679,Can I come tomorrow because I stay near the shop only near d mart,store_information
+680,What if i fount a product is not authenticate,original_product
+681,"Hi , I am looking for home gym",recommend_product
+684,muzaffarpur hub contact number,call_center
+685,This number is invalid,chat_with_agent
+689,How to verify my product,original_product
+693,I want to know everything about ichpure,recommend_product
+694,Dite plan,consult_start
+695,There's no expiry date printed on BT fuel one 2.2lb chocolate,expiry_date
+696,CureKart store in kolkata,store_information
+698,Does product really reduce weight,recommend_product
+700,How do I place the order?,order_taking
+701,It shows that this product can not be delivered at 7021645199 right now.Plz let me inform when it will be possible. Thank u,order_status
+704,which protein i have used my muscle clarity gained and fat loss all in one suggest me,recommend_product
+705,Cod is available,order_taking
+708,"Can u give me a diet chart, I am 47 years old, no medical problem want to loose fat",consult_start
+709,I want to purchase a thermocut,recommend_product
+711,Order cancel,cancel_order
+714,Hey I just received my multivitamin curekart box but I have doubt whether it is real or fake product,original_product
+717,"Hi, do you deliver to Giddalur, Prakasam dist, AP",check_pincode
+719,My weight is 64 I'm increase in 30 kg,recommend_product
+720,diet plan,consult_start
+721,How to cancel my order,cancel_order
+722,i want cancel my order,cancel_order
+723,Plz cancel my all order,cancel_order
+724,Dont worry.it will be a prepaid percel,order_taking
+725,Any side effects sir,side_effect
+726,Where is cure kart in greater Noida?,store_information
+728,"Hi , I am looking for home gym set",recommend_product
+731,I want to know expiry date of my product,expiry_date
+732,"I have some of the Hirokeen capsules & would like to buy more : can you supply the Mega Power capsules to Australia? Thank you, Aaron D'souza",recommend_product
+734,i wamt rod for gymming,recommend_product
+735,I want to cancel my order now and reorder again,cancel_order
+736,Return my order,refunds_returns_replacements
+739,i want to buy a health drink,recommend_product
+743,Can I come tomorrow because I stay near the shop only near k mart,store_information
+744,How much time take to product deliver,resume_delivery
+745,Cancel the delivery,cancel_order
+750,Chat agent,chat_with_agent
+752,I have to know the expiry date before buying,expiry_date
+755,I need DELITE MASS MUSCLE GAINER (DOUBLE RICH CHOCOLATE FLAVOR) 10.16 LBS,recommend_product
+760,I want to buy a product,recommend_product
+762,CureKart is a genuine product for sell,original_product
+765,Shipping in newzealand,check_pincode
+766,How to weight gain,recommend_product
+767,Do you have GO casein protein ?,recommend_product
+768,What if I got a fake product,original_product
+770,hlo i want to gain mass can u please help me out,recommend_product
+771,My whight is 65 kg,recommend_product
+772,I want 8712 Tamron bp monitor,recommend_product
+773,Please help me I need a best mass gainer,recommend_product
+774,Can I get Gonix as30,recommend_product
+776,which product helps to gain muscle??,recommend_product
+778,"Hi how much it takes time to deliver this product at Kanpur 7021645199 (Body Gainz PVC Dumbells Sets BM-Combo-20, Black, 20 kg)?",check_pincode
+779,"How much time, days will it take to deliver Nature made super saw palmetto in central delhi",check_pincode
+781,So you guys have stores also???,store_information
+782,Are the products are genuine like your store ...??,original_product
+785,want a medicine,recommend_product
+786,Hi I want to become bulk,recommend_product
+787,Is this normal with ths product or should I chat with an expert,chat_with_agent
+790,hair loss,recommend_product
+792,I you will deliver it tomorrow,resume_delivery
+796,My order cancel,cancel_order
+800,Diet plan,consult_start
+802,i need product,recommend_product
+805,But order was shipped the same day and now am stuck with waiting till the end of the month without supply,delay_in_parcel
+807,Bt mass gainer XXL I'm already 94 kg,recommend_product
+808,I'm 94 kg but not a muscular body .. what you recommend for me..,recommend_product
+809,whey,recommend_product
+812,Delivery at pincode 7021645199,check_pincode
+813,weight gain,recommend_product
+814,hi how to use bt protein,recommend_product
+817,It would be better if i cancel and buy offline,cancel_order
+818,I want a diet chart,consult_start
+825,Customer care,call_center
+829,how much time taken to deliver products,delay_in_parcel
+832,How many days after fish oil capsules  expired,expiry_date
+834,U have pureol biotin 10000mcg,recommend_product
+840,Which protein is better for me,recommend_product
+842,Do u have bp apparatus?,recommend_product
+843,Your service is  pathetic,chat_with_agent
+844,is it available my location,check_pincode
+846,CAN I pay online for my COD order?,order_taking
+847,I want to pay for my COD order.,order_taking
+853,yes i am new,sign_up
+856,Need supper gummy  zinc and vitamins,recommend_product
+859,Will this product help for building huge muscular body,recommend_product
+862,Please cancelled my order deyaled issue,cancel_order
+863,I wnt to lose my weight,recommend_product
+866,XxX mass gainer,recommend_product
+867,I want to buy the product,recommend_product
+868,Is it here trusted products,original_product
+871,Can you deliver to 7021645199,check_pincode
+873,I want to return the product,refunds_returns_replacements
+877,How to gain weight,recommend_product
+878,I want to cancel an order.,cancel_order
+880,Cancel my product,cancel_order
+881,Cancel order,cancel_order
+882,I want to cancel may order,cancel_order
+884,Do you have any delivery to srilanka,check_pincode
+885,I am 82 years old... I want to buy melatonin 10mg..can you suggest a good producr,recommend_product
+886,Useless,chat_with_agent
+888,Suggest me diet on weight loss,consult_start
+894,I want to get information about heavy mass,recommend_product
+896,For increasing fat which products will good for me,recommend_product
+897,I want to return,refunds_returns_replacements
+903,Cancel order,cancel_order
+904,Weights loss,recommend_product
+906,Hair 4care %,recommend_product
+911,I need preworkout,recommend_product
+914,How to change address of placed order,modify_address
+916,Retun my order,refunds_returns_replacements
+917,Waste of time,chat_with_agent
+918,How can I order product,order_taking
+919,Were s my order,order_status
+923,any adverse side effects to using whey protein,side_effect
+927,Authenticity check,original_product
+930,wrong address,modify_address
+931,How can I place my order,order_taking
+935,My age is 25 year and wight 49kg so which is best supliment for me,recommend_product
+937,Supplement for 15 year old boy,recommend_product
+939,Show products for Athletic,recommend_product
+940,how to know that you aren't selling fake product ?,original_product
+941,I need optiquick powder,recommend_product
+942,How can I check original product,original_product
+944,How can I contact if I did not receive my order but got message that your order is delivered,delay_in_parcel
+945,Can I return after using it for few days and found it fake,refunds_returns_replacements
+946,4kg dumbbells are available?,recommend_product
+947,What is the expiry date of the product,expiry_date
+951,Regarding a product,recommend_product
+955,Delivered when,order_status
+958,Home gym,recommend_product
+959,Do you have any store in Amritsar,store_information
+960,Can i do COD ??,order_taking
+961,No i want MUSCLEFIT product are they authentic?? On your platform??,original_product
+962,And are importer  are genuine ??,original_product
+963,This is protein powder,recommend_product
+964,Is your product natural,original_product
+966,I am a first time user,sign_up
+967,Hey I didn’t receive the ordered product its incomplete,delay_in_parcel
+969,Want vichy ideal white,recommend_product
+974,complaint,chat_with_agent
+976,Need a diet plan,consult_start
+977,Tracking my order,order_status
+978,Please keep delivery service to the pin code 7021645199,check_pincode
+984,I want cod,order_taking
+985,We want ur ph number,call_center
+989,I want home gym workout equipment,recommend_product
+990,Cancel my order please,cancel_order

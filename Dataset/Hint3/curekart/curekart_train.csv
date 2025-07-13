@@ -1,0 +1,600 @@
+,sentence,label
+0,What time is your call centre operational during COVID?,call_center
+1,is the call center still functioning during lockdown,call_center
+2,what are the working hours of your call center during covid lockdown,call_center
+3,does covid affext your call center time,call_center
+4,is your call center working during covid?,call_center
+5,when can i call the call center during coronvirus lockdown,call_center
+6,what is the time when call center is working,call_center
+7,Contact Call Center,call_center
+8,what time are you guys open,call_center
+9,I want to call your call centre,call_center
+10,Toll Free Number,call_center
+11,Customer care number,call_center
+12,pls give me customer care no,call_center
+13,want to contact your customer care number send me,call_center
+14,Consumer care number,call_center
+15,where do I call you,call_center
+16,i want to get in touch,call_center
+17,I want your number,call_center
+18,i want your contact number where I can call you,call_center
+19,your contact number,call_center
+20,How do I Reach you guys,call_center
+21,I'd like to cancel my pending order,cancel_order
+22,How can I cancel my pending order?,cancel_order
+23,Kindly cancel my order,cancel_order
+24,I want to cancel my placed order,cancel_order
+25,Cancellation,cancel_order
+26,I want to place cancellation,cancel_order
+27,How can i cancel my order?,cancel_order
+28,cancel,cancel_order
+29,Cancel my order,cancel_order
+30,Cancelling,cancel_order
+31,I want to cancel a product,cancel_order
+32,I want to cancel my order,cancel_order
+33,Chat with agent,chat_with_agent
+34,I need customer support,chat_with_agent
+35,I want to chat with an agent,chat_with_agent
+36,I need to talk to someone,chat_with_agent
+37,You guys are fraud,chat_with_agent
+38,I want to speak with a human,chat_with_agent
+39,I want to raise a complaint,chat_with_agent
+40,Your delivery service is always slow I am done with CureKart,chat_with_agent
+41,"hello, is ther anyone available to assist",chat_with_agent
+42,contact support,chat_with_agent
+43,Customer care number not available,chat_with_agent
+44,call center unavailable,chat_with_agent
+45,call center not reachable,chat_with_agent
+46,Call centre not picking up,chat_with_agent
+47,No one is answering,chat_with_agent
+48,pathetic service,chat_with_agent
+49,I want to complain,chat_with_agent
+50,How to complaint,chat_with_agent
+51,You are useless,chat_with_agent
+52,Poor service,chat_with_agent
+53,poor customer support,chat_with_agent
+54,Waste of my time,chat_with_agent
+55,Bad Service,chat_with_agent
+56,Can i talk to a human,chat_with_agent
+57,Could I chat with a human please,chat_with_agent
+58,Live agent,chat_with_agent
+59,live person to talk,chat_with_agent
+60,I want to speak with a live agent,chat_with_agent
+61,real person available,chat_with_agent
+62,human to answer,chat_with_agent
+63,connect me to supervisor,chat_with_agent
+64,Give immediate resolution,chat_with_agent
+65,I need urgent assistance,chat_with_agent
+66,need an immediate fix to my problem,chat_with_agent
+67,This is urgent,chat_with_agent
+68,This is extremely urgent,chat_with_agent
+69,This is an emergency,chat_with_agent
+70,Talk,chat_with_agent
+71,Talk to agent,chat_with_agent
+72,I want to talk to your executive,chat_with_agent
+73,Tell me weight gaining,consult_start
+74,Consult Start,consult_start
+75,suggest me beginner diet,consult_start
+76,can you make my ideal diet plan ?,consult_start
+77,Get Diet & Fitness Advice,consult_start
+78,Diet plan for runner,consult_start
+79,Advice a diet chart,consult_start
+80,Recommend me workout schedule diet and protein,consult_start
+81,Hi i am looking for diet chart,consult_start
+82,Hii I am looking for lean muscle body advice me diet chart,consult_start
+83,Can u provide fitness advice ?,consult_start
+84,Diet,consult_start
+85,Muscle diet,consult_start
+86,Bodybuilding diet,consult_start
+87,Weight Loss diet,consult_start
+88,Workout plan,consult_start
+89,Diet plan,consult_start
+90,Diet and Fitness Advice for Bulk Muscle Gain,consult_start
+91,Diet and Fitness Advice for Lean Muscle Gain,consult_start
+92,Diet and Fitness Advice for Weight Gain,consult_start
+93,Diet and Fitness Advice for Maintain Weight,consult_start
+94,Diet and Fitness Advice for Weight Loss,consult_start
+95,I want a diet chart prepared for me,consult_start
+96,Can you tell me what diet is perfect for me,consult_start
+97,Generate Diet Analysis,consult_start
+98,Generate Advice,consult_start
+99,Is there a delay in delivery becuase of the pandemic?,delay_in_parcel
+100,How long is parcel delayed because of COVID?,delay_in_parcel
+101,Why is my delivery late,delay_in_parcel
+102,Why is my parcel delayed,delay_in_parcel
+103,why is parcel taking so long,delay_in_parcel
+104,My order is very late,delay_in_parcel
+105,Delivery is showing very late,delay_in_parcel
+106,My Order is Delayed,delay_in_parcel
+107,Delay Order,delay_in_parcel
+108,Why there is a delay,delay_in_parcel
+109,Product delayed,delay_in_parcel
+110,order delayed,delay_in_parcel
+111,why my order is delayed,delay_in_parcel
+112,Why my parcel is delay,delay_in_parcel
+113,Why it's getting delayed,delay_in_parcel
+114,I am not received my order yet,delay_in_parcel
+115,Delay during Covid-19,delay_in_parcel
+116,my order was delayed,delay_in_parcel
+117,it's been delayed,delay_in_parcel
+118,why my order keep getting delayed,delay_in_parcel
+119,i have not received my order till today.,delay_in_parcel
+120,I have still not received my order,delay_in_parcel
+121,My order was supposed to arrive long ago. Can you please tell me when will it come?,delay_in_parcel
+122,What if I receive expired product,expiry_date
+123,I have received an Expired product,expiry_date
+124,Expiry Date,expiry_date
+125,Product Expiry,expiry_date
+126,Where can we find expiry information regarding product,expiry_date
+127,Where can i check the expiry information of the product?,expiry_date
+128,How do i find out the expiry date of a product,expiry_date
+129,How to find the expiry date of a product,expiry_date
+130,Get Franchise,franchise
+131,would like to associated as seller,franchise
+132,i want to enroll my self as a seller,franchise
+133,I would like to get dealership,franchise
+134,i want to become the seller partner,franchise
+135,I wanted to be a seller,franchise
+136,Become a seller,franchise
+137,SELLER,franchise
+138,I want to became a seller,franchise
+139,How do i become a seller on curekart?,franchise
+140,i want to become a seller,franchise
+141,can i become a seller,franchise
+142,Track my order,order_status
+143,What is my shipment status,order_status
+144,What is the progress of my orders,order_status
+145,Can you tell me about my previous orders,order_status
+146,What is my current order status,order_status
+147,Can you tell me my current order status,order_status
+148,What is my order shipment progress?,order_status
+149,Where do you live,order_status
+150,"The delivery date  says 5 more days, are there any hopes i will receive my order before that",order_status
+151,"I want to track my order, when will it arrive?",order_status
+152,I have been eager to receive my order how long it will take to deliver?,order_status
+153,how will I come to know where my order has reached so far because it is so difficult to track the delivery agent,order_status
+154,My order status has not been updated on the website please tell where it is,order_status
+155,hi can you track my order,order_status
+156,Could you please help me tracking my order,order_status
+157,Where is my order?,order_status
+158,Where can I see order status? Whether it's shipped or not yet?,order_status
+159,please provide the status,order_status
+160,Status of my order,order_status
+161,I need my order status,order_status
+162,tracking details,order_status
+163,get order status,order_status
+164,order tracking,order_status
+165,check the order status,order_status
+166,Whats my order status,order_status
+167,can i get the tracking id,order_status
+168,Whats the tracking number,order_status
+169,I want to track my order,order_status
+170,Track Order,order_status
+171,When will my order will be delivered,order_status
+172,when will i recieve my order?,order_status
+173,When can I expect my delivery because of the pandemic?,order_status
+174,Will I receive my order after covid19 lockdown?,order_status
+175,how will covid lockdown affect my order,order_status
+176,It has not been delivered yet. So I want to know when it will be delivered,order_status
+177,How much more time do I have to wait for my parcel,order_status
+178,Is it possible to get my order early,order_status
+179,when can i expect my delivery,order_status
+180,In how many days I will get delivery,order_status
+181,my order has not reached,order_status
+182,when will my order be delivered?,order_status
+183,when will i receive this product?,order_status
+184,can my order be delivered early,order_status
+185,when i will get the product?,order_status
+186,When will it arrive,order_status
+187,I had ordered before the covid breakout how much more time it will take to deliver?,order_status
+188,my order is not delivered yet,order_status
+189,Delivery out of India,international_shipping
+190,International Shipping,international_shipping
+191,Out of India,international_shipping
+192,Modes of payments,modes_of_payments
+193,ways of paymets,modes_of_payments
+194,Accepted modes of payments,modes_of_payments
+195,What are the modes of payments you accept,modes_of_payments
+196,Tell me the modes of payment,modes_of_payments
+197,How can I pay Online,modes_of_payments
+198,i can't make a prepaid payment,modes_of_payments
+199,Change delivery address?,modify_address
+200,Delivery address is wrong it is to be changed,modify_address
+201,I want to change my delivery address,modify_address
+202,i have to change my address,modify_address
+203,i wanna change shipping address,modify_address
+204,Need to change shipping address,modify_address
+205,Edit shipping address,modify_address
+206,I want to change my shipping address,modify_address
+207,I want change my addresses,modify_address
+208,change of address,modify_address
+209,Regarding change of address of my order.,modify_address
+210,I need to change the address of my order,modify_address
+211,can i change the addres on the order,modify_address
+212,Can you please change the address?,modify_address
+213,Modify Address,modify_address
+214,Address Issue,modify_address
+215,I have a query related to my order,order_query
+216,Help required on order,order_query
+217,details  needed for my order,order_query
+218,Query for my order,order_query
+219,I have an order related query,order_query
+220,I want to know information related to my orders,order_query
+221,Order query,order_query
+222,Are you taking orders during COVID?,order_taking
+223,i know its lockdown due to coronavirus but can i still place an order?,order_taking
+224,"I wanted to order some things, can I place an order on the website?",order_taking
+225,are you taking up orders during the lockdown?,order_taking
+226,please tell me if I can still place an order on the website during the lockdown,order_taking
+227,are you accepting prepaid orders during lockdown,order_taking
+228,Can i place prepaid order,order_taking
+229,Accept Orders Again,order_taking
+230,Hi I want to order,order_taking
+231,Can i buy during quarantine,order_taking
+232,Can I order it ? While lockdown as well.,order_taking
+233,Are you taking orders for delivery,order_taking
+234,Are you guys still accepting order?,order_taking
+235,"Hi, is your service operating during curfew",order_taking
+236,Want COD option,order_taking
+237,I want to order on products,order_taking
+238,Can I order now ?,order_taking
+239,Can i order online right now?,order_taking
+240,can I pay cash later,order_taking
+241,Is COD available,order_taking
+242,is Cash on delivery possible,order_taking
+243,Can I place Cash on delivery order,order_taking
+244,Are you taking COD orders,order_taking
+245,COD option is not available,order_taking
+246,Cash on delivery option is not showing,order_taking
+247,Why it is not showing COD option,order_taking
+248,pay on delivery option on the portal,order_taking
+249,COD is not available?,order_taking
+250,I want to book shipment on cash on delivery,order_taking
+251,There is no option for cash on delivery,order_taking
+252,How come there is  no COD on curekart,order_taking
+253,I want to pay COD,order_taking
+254,COD,order_taking
+255,Buy through Cash on delivery,order_taking
+256,There's no option for Cash on Delivery,order_taking
+257,Cash on Delivery,order_taking
+258,Wants to buy a supplement through cash on delivery,order_taking
+259,Are you still delivering during this time?,order_taking
+260,Do i need to make payment in cash,order_taking
+261,Original Products,original_product
+262,do you have authentic products,original_product
+263,Is your product original,original_product
+264,are your products genuine,original_product
+265,can i get original product,original_product
+266,Show me your authenticity,original_product
+267,Fake product,original_product
+268,Authentication,original_product
+269,Authenticate,original_product
+270,Authentic,original_product
+271,How I check product is original or fake,original_product
+272,How to check products is original or not,original_product
+273,how to verify its original or duplicate,original_product
+274,My supplement is original or not,original_product
+275,How to know if product is orignal,original_product
+276,Authenticated,original_product
+277,What if I find it fake after receiving,original_product
+278,Product seems fake,original_product
+279,Product is fake,original_product
+280,I got fake product,original_product
+281,I would like to know the originality of the product,original_product
+282,how can i check the authenticity of the product,original_product
+283,Are your products 100% original?,original_product
+284,I want to know my refund status,refunds_returns_replacements
+285,I want to know about my replacements,refunds_returns_replacements
+286,I havent received my refund it has been many days since the return,refunds_returns_replacements
+287,I want my item replaced because the item I have received has tampered with already,refunds_returns_replacements
+288,Order Replacement for the products i received because I did not order what I have received,refunds_returns_replacements
+289,Where is my refund?,refunds_returns_replacements
+290,Refund not received,refunds_returns_replacements
+291,Check Refund Status,refunds_returns_replacements
+292,query related to refunds,refunds_returns_replacements
+293,query related to replacements,refunds_returns_replacements
+294,I have sent my order for refund how much time will it take?,refunds_returns_replacements
+295,How can I get a refund for the order I placed?,refunds_returns_replacements
+296,"I want my payment for refund back, when I will get it?",refunds_returns_replacements
+297,"The product I received was of bad quality, how do I replace it?",refunds_returns_replacements
+298,I need to replace the product I recieved,refunds_returns_replacements
+299,I would just like to return my product since you have delivered something completely different from what I had initially ordered,refunds_returns_replacements
+300,I want my money back,refunds_returns_replacements
+301,some of the items I have ordered are missing how do I get a replacement?,refunds_returns_replacements
+302,I want refund as soon as in my account,refunds_returns_replacements
+303,What's you refund policy,refunds_returns_replacements
+304,please refund my amount,refunds_returns_replacements
+305,Refund money,refunds_returns_replacements
+306,Refund,refunds_returns_replacements
+307,Return the product,refunds_returns_replacements
+308,Any return poliCy,refunds_returns_replacements
+309,order returned,refunds_returns_replacements
+310,My replacement order,refunds_returns_replacements
+311,My Refund,refunds_returns_replacements
+312,i want to refund my product,refunds_returns_replacements
+313,i want to replace my bad quality product,refunds_returns_replacements
+314,as it is only showing return policy but nowhere option to return my order,refunds_returns_replacements
+315,I would like to return a part of my latest order,refunds_returns_replacements
+316,It’s shows that u returned multiple order,refunds_returns_replacements
+317,I need to initiate return,refunds_returns_replacements
+318,Replacement,refunds_returns_replacements
+319,I want replace my order,refunds_returns_replacements
+320,Replacement order,refunds_returns_replacements
+321,i want replacement,refunds_returns_replacements
+322,Not received my replacement order,refunds_returns_replacements
+323,Return product,refunds_returns_replacements
+324,Return Policy,refunds_returns_replacements
+325,Return,refunds_returns_replacements
+326,When will my parcel return?,refunds_returns_replacements
+327,Information for return,refunds_returns_replacements
+328,i want to return one product,refunds_returns_replacements
+329,I ordered by mistake,refunds_returns_replacements
+330,refund wrong item received,refunds_returns_replacements
+331,Wrong  items shipped,refunds_returns_replacements
+332,ordered wrong item,refunds_returns_replacements
+333,I want to return my last order,refunds_returns_replacements
+334,I want exchange the product,refunds_returns_replacements
+335,i want to return my order,refunds_returns_replacements
+336,I want to know about my refund or replacement,refunds_returns_replacements
+337,Refund & Replacement,refunds_returns_replacements
+338,I want to know about my payments,payment_and_bill
+339,Payments and Bills,payment_and_bill
+340,I have Payment & Bill Related Queries,payment_and_bill
+341,I want my invoice for my previous orders,payment_and_bill
+342,"My money got deducted but my order did not get placed, can you help me?",payment_and_bill
+343,"I have an issue with my bill, can I get a duplicate copy?",payment_and_bill
+344,my account got debited but my order did not get placed please give me a solution,payment_and_bill
+345,"I see a transaction on my bank app, the money for the order has been deducted but there is no order visible on my profile",payment_and_bill
+346,I will require a duplicate bill for my previous orders since I have to show it as a proof,payment_and_bill
+347,My order did not get placed but my money got deducted form my account.,payment_and_bill
+348,Can you send me a duplicate bill for my order?,payment_and_bill
+349,"I want a duplicate bill for my order, where can I find it?",payment_and_bill
+350,"I have not received my bill, give me my bill",payment_and_bill
+351,"my bill has been not publised yet on the website, i want a bill for my order",payment_and_bill
+352,you have not provided me my bill yet,payment_and_bill
+353,give me my duplicate bill,payment_and_bill
+354,show me my duplicate bill for my latest order,payment_and_bill
+355,Give me a copy of my bill please,payment_and_bill
+356,i want invoice,payment_and_bill
+357,I want invoice of my product,payment_and_bill
+358,Money deducted but order not placed,payment_and_bill
+359,my money has been deducted but it's not been place order,payment_and_bill
+360,"i have placed a order recently,money deducted but order not placed",payment_and_bill
+361,My Money is deducted but the order is not placed,payment_and_bill
+362,I have query related to payments and bill,payment_and_bill
+363,Payments & bill,payment_and_bill
+364,Portal not working,portal_issue
+365,Option is not visible,portal_issue
+366,Unable to see product in my cart,portal_issue
+367,My Cart Is empty,portal_issue
+368,Product Service,check_pincode
+369,pincode serviceable,check_pincode
+370,I wanted to know whether you are delivering in,check_pincode
+371,Are you shipping to my pincode,check_pincode
+372,Is it deliverable to my pin code,check_pincode
+373,Will you deliver to my pincode,check_pincode
+374,Are you delivering products at my pincode,check_pincode
+375,Can my product be delivered to my pincode,check_pincode
+376,Can you check my pincode delivery,check_pincode
+377,Can you check if my pincode is serviceable,check_pincode
+378,Is delivery available at my pincode,check_pincode
+379,How many days will take to deliver,check_pincode
+380,Do you deliver at my pincode,check_pincode
+381,Get Product Service,check_pincode
+382,Recommend a product,recommend_product
+383,What are all the products you have?,recommend_product
+384,I am confused about what to buy since there are too many options I and I really don't know what I should focus on right now,recommend_product
+385,I'm here to browse some products because my friend said heathkart has some superb varieties,recommend_product
+386,give me all kinds of products you have,recommend_product
+387,give me some other products regarding building a good health and body,recommend_product
+388,Select another goal,recommend_product
+389,Can you help me with building an athletic body so that I participate in sports competition,recommend_product
+390,Which products can you help me?,recommend_product
+391,"I am aiming to get a lean body, can you help me?",recommend_product
+392,"I want help to reach my weight goal, can you suggest some products?",recommend_product
+393,what products would you suggest to lose weight?,recommend_product
+394,I am trying to cut down on my weight,recommend_product
+395,I need some hair care products since I have been experiencing a lot for problems lately,recommend_product
+396,I want to transform my lifestyle to be more healthy,recommend_product
+397,"I have been trying to maintain a healthy lifestyle as a new year goal, which products whould you recommend to me",recommend_product
+398,Can you suggest me some products?,recommend_product
+399,I need some product suggestion depending on my health goal,recommend_product
+400,i'm beginner in gym,recommend_product
+401,Best mass gainer??,recommend_product
+402,I want get muscle mass and lean mass,recommend_product
+403,Lose weight and gain lean muscles,recommend_product
+404,i mean i want protein supplement,recommend_product
+405,i want to gain musclemass,recommend_product
+406,Sir I want to fast gain weight.,recommend_product
+407,which is the best one to use for body gainer,recommend_product
+408,Please suggest me what is the best medicine of immunity boosting,recommend_product
+409,I want a muscular body,recommend_product
+410,give products for protein,recommend_product
+411,What is the best pre workout protein to boost heavy duty workout,recommend_product
+412,Wanted to get Protein powder,recommend_product
+413,give me all the products required for bodybuilding,recommend_product
+414,Protein shakes for weight loss,recommend_product
+415,plz suggest me a best mass mass gainer...,recommend_product
+416,I want to lose 10 kg in 1 month,recommend_product
+417,I want to gain more muscles,recommend_product
+418,I want to buy best mass gainer but I am confused,recommend_product
+419,i want to a product for weight gain,recommend_product
+420,i need supplements,recommend_product
+421,i i want weight loss,recommend_product
+422,For biceps and tricep muscle growth supplements,recommend_product
+423,energy boost in body,recommend_product
+424,Can you please suggest me some products specified to help me gain weight,recommend_product
+425,Best whey protein,recommend_product
+426,Best whey for lean body,recommend_product
+427,best supplement for biceps and triceps growth,recommend_product
+428,Best protein for lein body,recommend_product
+429,Best pre workout supplement,recommend_product
+430,Best multivitamins for bulking,recommend_product
+431,I want to purchase,recommend_product
+432,Height increasing nutrition,recommend_product
+433,I want to gain my weight,recommend_product
+434,I want to reduce my fat,recommend_product
+435,Need to buy,recommend_product
+436,I want new product,recommend_product
+437,Weight gainer,recommend_product
+438,I want home gym product,recommend_product
+439,I want to grow my height,recommend_product
+440,I need dumbbells,recommend_product
+441,I want dumbells set,recommend_product
+442,Skin brightness,recommend_product
+443,Body fat loss,recommend_product
+444,Multivitamin,recommend_product
+445,Hairfall,recommend_product
+446,Calcium,recommend_product
+447,Fish oil,recommend_product
+448,Fat Loss,recommend_product
+449,Fat burner,recommend_product
+450,Dumbbell,recommend_product
+451,Creatine,recommend_product
+452,Bulk gainer,recommend_product
+453,brain memory,recommend_product
+454,body detox,recommend_product
+455,Biotin,recommend_product
+456,Glutathione,recommend_product
+457,Gainer,recommend_product
+458,Gym Equipment,recommend_product
+459,isopure,recommend_product
+460,Height,recommend_product
+461,Hair Fall,recommend_product
+462,L arginine,recommend_product
+463,Multi vitamin,recommend_product
+464,Omega 3,recommend_product
+465,Resistance band,recommend_product
+466,Slim tea,recommend_product
+467,Testosterone,recommend_product
+468,True Basic,recommend_product
+469,Vitamin,recommend_product
+470,I want to get the product,recommend_product
+471,I want to buy,recommend_product
+472,I wanna Buy,recommend_product
+473,MB Gold Protein,recommend_product
+474,Syntha 6,recommend_product
+475,BCAA,recommend_product
+476,MB Supergainer,recommend_product
+477,Reedem referral,refer_earn
+478,My friend refer me to CureKart,refer_earn
+479,Refer Amount,refer_earn
+480,Friend referral,refer_earn
+481,Refer & Earn,refer_earn
+482,Want to know about refer & Earn,refer_earn
+483,Refral code,refer_earn
+484,My Referral code,refer_earn
+485,Need help with refferal,refer_earn
+486,Referral,refer_earn
+487,I have referral promo code,refer_earn
+488,How to refer my referal code,refer_earn
+489,How cani refer a friend for this app?,refer_earn
+490,When will you resume delivery due to COVID?,resume_delivery
+491,are you going to start delivery during this lockdown period as well?,resume_delivery
+492,other websites like lagoon are delivering when will curekart start again to deliver?,resume_delivery
+493,"I have not received my parcel yet, when will to start the delivery again",resume_delivery
+494,I am not getting any update on my parcel because of corona,resume_delivery
+495,Resume to Deliver,resume_delivery
+496,If I order now do I get delivery,resume_delivery
+497,Can you deliver it to my address,resume_delivery
+498,Hi are you delivering now,resume_delivery
+499,Since there is a lockdown and only essestial services are working will cureKart deliver me the items,resume_delivery
+500,"as there is a lockdown everywhere, is CureKart still working?",resume_delivery
+501,how is CureKart handling covid orders,resume_delivery
+502,I am not sure if covid is affecting your delivery,resume_delivery
+503,how is covid impacting your delivery,resume_delivery
+504,Impact on Delivery,resume_delivery
+505,When can I get my product if I order today,resume_delivery
+506,When I'll be receiving the product?,resume_delivery
+507,Are you delivering in lock down?,resume_delivery
+508,If I order today when I will get it,resume_delivery
+509,"If I order today, when will I get the delivery?",resume_delivery
+510,Hello are you currently delivering?,resume_delivery
+511,Hi do you deliver in this situation?,resume_delivery
+512,"If i place my order today, when will it be delivered?",resume_delivery
+513,I want to order but are you delivering,resume_delivery
+514,If i order today in how many days it will be delivered,resume_delivery
+515,Is deliveries happening now?,resume_delivery
+516,If i i order today .how much time it will be delivered?,resume_delivery
+517,Can u deliver product during shut down?,resume_delivery
+518,If I will order one product today them when it will be reach,resume_delivery
+519,can you let me know exact delivery time,resume_delivery
+520,i need information related to delivery times,resume_delivery
+521,Delivery time duration,resume_delivery
+522,what will be the delivery date,resume_delivery
+523,I want to know when i will get my order if i place my order today,resume_delivery
+524,Are you people delivering products?,resume_delivery
+525,If I place order today how soon can I get order delivered?,resume_delivery
+526,After prepaid when will it arrive?,resume_delivery
+527,You can deliver order now in curfew,resume_delivery
+528,Wts delivery time if i order today,resume_delivery
+529,is Cure Kart providing delivery during lockdown?,resume_delivery
+530,Is delivery available,resume_delivery
+531,Is delivery affected by covid 19,resume_delivery
+532,If I order right now how long will it take to deliver,resume_delivery
+533,I want to order whey protein...can you please tell me expacted time of delivery,resume_delivery
+534,how to long will it take for delivery of producs,resume_delivery
+535,How much time for prepaid parcels,resume_delivery
+536,Delivery period and date is not mentioned,resume_delivery
+537,Delivery is available but it will take 15-18 days u mean to say,resume_delivery
+538,Can I get the product these days if I prepay you,resume_delivery
+539,Are you guys delivering the products if i order?,resume_delivery
+540,are u providing delivery,resume_delivery
+541,It has any side effects or not,side_effect
+542,Does it have side effects?,side_effect
+543,is there any side effects,side_effect
+544,Side Effect,side_effect
+545,New to CureKart?,sign_up
+546,Where can I sign up,sign_up
+547,I am a new user,sign_up
+548,I am new to curekart,sign_up
+549,I am not a registered user of curekart,sign_up
+550,I don't have the registered phone number,sign_up
+551,Not a registered user,sign_up
+552,Show me the main menu,start_over
+553,Start again,start_over
+554,Start over,start_over
+555,Restart the flow,start_over
+556,Start over the flow,start_over
+557,Can I visit your store,store_information
+558,Àre your shops operational,store_information
+559,Are stores still opening?,store_information
+560,Are your stores open,store_information
+561,Can i go to your shop,store_information
+562,Is your store open,store_information
+563,CureKart stores are open?,store_information
+564,Can I purchase from shop,store_information
+565,Can I purchase directly from store,store_information
+566,Can i collect it from a store,store_information
+567,Are curekart store open,store_information
+568,Stores near me,store_information
+569,Store information,store_information
+570,Are your offline stores open?,store_information
+571,Re-assess my profile,user_goal_form
+572,I would want to take re-assessment,user_goal_form
+573,Fill my goal,user_goal_form
+574,Show me the form to add goal details,user_goal_form
+575,How can I add my goals,user_goal_form
+576,I want to add my goals,user_goal_form
+577,Take reassessment,user_goal_form
+578,Re-assessment,user_goal_form
+579,Take Re-assessment,user_goal_form
+580,Fill my body measures & Goal,user_goal_form
+581,I want to take Re-assessment,user_goal_form
+582,Let's do Re-assessment,user_goal_form
+583,Is your head office working during lockdown?,work_from_home
+584,is curekart office open during the lockdown?,work_from_home
+585,I wanted to talk to contact your head office for some work but is it open?,work_from_home
+586,I hope you are also working from home during this time,work_from_home
+587,are you as well working from home like I am?,work_from_home
+588,is your banglore office working right now?,work_from_home
+589,how are you functioning,work_from_home
+590,does the government lockdown affect curekart?,work_from_home
+591,Office Information,work_from_home
+592,are you working during covid,work_from_home
+593,How can I increase my immunity,immunity
+594,I want to increase my immunity power,immunity
+595,Increase immunity power,immunity
+596,Increase Immunity,immunity
+597,Help me in increasing immunity,immunity
+598,Double Up Immunity Power,immunity
