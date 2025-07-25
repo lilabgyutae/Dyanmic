@@ -139,7 +139,6 @@ def main():
         query = row['sentence']
         true_label = safe_lower(row['label'])
         
-        # 테스트 레이블을 새 이름으로 매핑
         mapped_true_label = forward_mapping.get(true_label, true_label)
         
         examples, selected_intents, is_true_label_in_examples = retrieve_examples(
@@ -147,7 +146,6 @@ def main():
         predicted_intent, full_prompt = predict_intent(query, examples, model, tokenizer, device)
         predicted_intent = safe_lower(predicted_intent)
         
-        # 예측된 intent를 원래 이름으로 다시 매핑
         original_predicted_intent = reverse_mapping.get(predicted_intent, predicted_intent)
         
         is_correct = original_predicted_intent == true_label
