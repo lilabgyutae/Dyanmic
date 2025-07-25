@@ -57,14 +57,12 @@ def get_intent_renaming_prompt(examples: List[Tuple[float, str, str]]) -> str:
     for sim, sent, intent in examples:
         intent_groups[intent].add(sent)
     
-    # 예시 구성 with better formatting
     groups_str = "Examples by intent:\n"
     for intent, examples in intent_groups.items():
         groups_str += f"\nIntent: {intent}\n"
         for example in examples:
             groups_str += f"- {example}\n"
     
-    # 실제 intent 목록으로 매핑 형식 생성
     mapping_format = "\n".join(f"{intent} -> " for intent in sorted(intent_groups.keys()))
     
     prompt = f'''{groups_str}
@@ -81,18 +79,16 @@ INTENT MAPPINGS:
     return prompt
 
 def extract_mappings_from_response(response: str) -> Dict[str, str]:
-    """모델 응답에서 인텐트 매핑을 추출하는 함수"""
     mapping = {}
     
     if "INTENT MAPPINGS:" in response:
         sections = response.split("INTENT MAPPINGS:")[1:]
         
         for section in sections:
-            # Final과 Note 이전의 매핑만 처리
             clean_section = section
             if "Final" in clean_section:
                 clean_section = clean_section.split("Final")[0]
-            if "\nNote:" in clean_section:  # 줄바꿈이 있는 Note만 섹션 구분자로 처리
+            if "\nNote:" in clean_section: 
                 clean_section = clean_section.split("\nNote:")[0]
                 
             current_mappings = {}
@@ -102,8 +98,7 @@ def extract_mappings_from_response(response: str) -> Dict[str, str]:
             for line in lines:
                 if '->' in line:
                     try:
-                        # 한 줄 내의 Note나 주석 처리
-                        if '(' in line:  # 줄 단위 주석 처리
+                        if '(' in line: 
                             note_start = line.index('(')
                             mapping_part = line[:note_start]
                         else:
@@ -111,9 +106,7 @@ def extract_mappings_from_response(response: str) -> Dict[str, str]:
                             
                         old_intent, new_intent = map(str.strip, mapping_part.split('->'))
                         
-                        # 원본 인텐트가 있고 이전에 매핑되지 않은 경우만 처리
                         if old_intent and old_intent not in current_mappings:
-                            # 새 매핑 처리
                             if new_intent:
                                 new_intent = new_intent.lower().replace(' ', '_')
                                 current_mappings[old_intent] = new_intent
@@ -121,7 +114,6 @@ def extract_mappings_from_response(response: str) -> Dict[str, str]:
                     except:
                         continue
             
-            # 유효한 매핑이 있는 경우 사용
             if valid_mappings > 0:
                 mapping = current_mappings
                 break
@@ -145,14 +137,11 @@ def rename_intents(examples: List[Tuple[float, str, str]], model, tokenizer, dev
     
     response = tokenizer.decode(outputs[0], skip_special_tokens=True).strip()
     
-    # 매핑 추출
     intent_mapping = extract_mappings_from_response(response)
     
-    # 최종 매핑 생성
     final_mapping = {}
     for intent in unique_intents:
         if intent in intent_mapping:
-            # 특수문자나 괄호가 있는 매핑은 원래 인텐트 사용
             mapped_intent = intent_mapping[intent]
             if any(c in '()[]{}' for c in mapped_intent) or 'and_so_on' in mapped_intent.lower():
                 final_mapping[intent] = intent
@@ -164,7 +153,6 @@ def rename_intents(examples: List[Tuple[float, str, str]], model, tokenizer, dev
     return final_mapping
 
 def prompt_template(query: str, examples: List[Tuple[str, str, float]]) -> str:
-    # mapped_intent를 사용하도록 변경
     intent_examples_str = "\n".join([f'Text: "{sent}"\nIntent: {intent}\n' 
                                    for sent, intent, _ in examples])
     
@@ -183,11 +171,8 @@ The top 1 most likely intent is:"""
 def extract_intent(response: str) -> str:
     """Extract predicted intent from model response"""
     if "The top 1 most likely intent is:" in response:
-        # 응답에서 인텐트 부분만 추출
         predicted = response.split("The top 1 most likely intent is:")[-1].strip()
-        # 추가 텍스트나 개행이 있을 경우 첫 줄만 사용
         predicted = predicted.split('\n')[0].strip()
-        # 빈 응답이나 숫자만 있는 경우 None 반환
         if not predicted or predicted.isdigit():
             return None
         predicted = re.sub(r'[^\w\s-]', '', predicted)
@@ -197,21 +182,17 @@ def extract_intent(response: str) -> str:
 def main():
     warnings.filterwarnings("ignore")
     
-    # Parse command line arguments
     args = parse_args()
     
-    # Device setup
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     
     print("Loading data and models...")
     train_df = pd.read_csv(args.train_file)
     test_df = pd.read_csv(args.test_file)
     
-    # relabeling을 위한 Llama 모델 로드
     print("Loading mapping model (Llama)...")
     mapping_model, mapping_tokenizer = load_model(args.mapping_model_id, device)
     
-    # 분류를 위한 Qwen 모델 로드
     print("Loading classification model (Qwen)...")
     classification_model, classification_tokenizer = load_model(args.classification_model_id, device)
      
