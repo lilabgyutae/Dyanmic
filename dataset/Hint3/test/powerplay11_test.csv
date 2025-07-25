@@ -1,0 +1,320 @@
+,sentence,label
+5,Not opend please help me,capabilities
+6,My account under fair play or not,fairplay_violations
+10,I am talk with your agent,chat_with_an_agent
+15,Dear Sir I Deposit 200 Rs But Not Credit In My Wallet,chat_with_an_agent
+26,My account under fair play violation or not please tell me,fairplay_violations
+38,Give me contact number,contact_number
+42,Pan card is not verified,verify_pan
+43,I have joined one contest till now it was not updated,cannot_see_joined_contests
+49,Click on the join button in front of the specific contest,join_contest
+57,my winning no my account,winnings
+63,Plese help,capabilities
+70,Any  contest,types_contests
+74,I want my deposit history....,check_deposit_status
+75,Ok tnq..,thanks
+76,How remove my pan card,delete_pan_card
+77,Is Instant withdrawal on PowerPlay11,instant_withdrawal
+78,1000 rupees winning not add,winnings
+80,Very bad,criticism
+82,Thank you😊,thanks
+83,Result of football match,points_not_updated
+93,Help mee,capabilities
+99,If you are getting time out error while verifying PAN card then please make sure then your PAN card image is less then 2MB. I know,pan_verification_failed
+101,My money not recived,winnings
+104,Worst app,criticism
+113,Customer care executive,contact_number
+126,Plz check i want to join contest,join_contest
+130,I could not join any contest from now.please help.,chat_with_an_agent
+137,I want to talk a agent,chat_with_an_agent
+138,PowerPlay11 rummy issue,chat_with_an_agent
+140,How to install PowerPlay11 rummy,download_powerplay11
+146,Mail verification,verify_email
+152,Any contest,types_contests
+161,Yesterday football match winnings still not credited,winnings
+162,How can do the update this aap,update_app
+183,Sir i have a win a contest and money will be come,winnings
+184,Any1 here,presence
+199,"Sir,  thanks",thanks
+200,Why the resut this much delay..,points_not_updated
+202,I need some help,capabilities
+205,My money got debited,account_balance_deducted
+208,Why amount deducted from my account for reason tapping please answer,account_balance_deducted
+214,Total deposited when I started to till date,check_deposit_status
+216,Cash bonus validity?,cash_bonus_expiry
+218,I want to talk to executive,chat_with_an_agent
+229,No email receive,no_email_confirmation
+231,Not credited,winnings
+235,Can u tell me my total deposit mony,check_deposit_status
+244,You call me,contact_number
+246,No verify pan card,verify_pan
+255,I don't get one contest amount,winnings
+256,I want my full transaction details?,check_deposit_status
+258,Need helpline number,contact_number
+259,Withdrawals limit par day,withdrawal_intro
+260,I want to talk about something else,chat_with_an_agent
+263,I think it is fake,fake_teams
+265,My full deposit till now,check_deposit_status
+266,My total transaction till date,check_deposit_status
+268,My withdrawn money refunded,withdrawal_status
+271,What is the minimum amount to withdraw,withdrawal_intro
+282,Total deposit till date,check_deposit_status
+285,I want to know transaction history,check_deposit_status
+291,Gudnt,greetings_day
+292,I want my total transaction of deposits,check_deposit_status
+293,I want to know that how much I have been deposited till now,check_deposit_status
+300,Please update the current score on live baseball game between ul and fb,points_not_updated
+301,I accidentally put 1000 rupees in PowerPlay11 which I have to back again.,refund_of_wrong_amount
+307,Player point is not correct,points_not_updated
+311,There is froud here,fake_teams
+314,update women basketball match points,points_not_updated
+316,chat with customer service agent,chat_with_an_agent
+320,My live match  point's no updated,points_not_updated
+326,Plz reset my account,account_reset
+331,I need to transfer cash bonus,withdraw_cash_bonus
+332,tie,what_if_theres_a_tie
+335,My wining Blanc e,check_wallet_balance
+338,My account balance got deducted,account_balance_deducted
+339,Plz update correct points of basketball,wrong_scores
+340,Point problem🙏🙏🙏,points_not_updated
+342,"Tp-w vs ty-w basketball match;
+Wrong points updated, please check",wrong_scores
+343,"Tp-w vs ty-w basketball match;
+Wrong points updated",wrong_scores
+344,tp-w vs ty-w basketball match: tp-w player s rou points are not updated correctly please fix,wrong_scores
+350,Match abounded but money not refund,match_abandoned
+355,Need an agent,chat_with_an_agent
+367,"Sir, rs 200 deposit in PowerPlay11, but not show correct balance",chat_with_an_agent
+368,Sir I want to talk to an agent,chat_with_an_agent
+369,Sir help me,capabilities
+371,This is froud app,fake_teams
+372,Haw can we verify my account,account_not_verified
+377,I have won contest but money not deposited in my wallet,winnings
+381,it is not credited in my bank account,winnings
+382,Wrong point update in current football match going on,wrong_scores
+383,My withdrawal status,withdrawal_status
+389,Can we change pan card,delete_pan_card
+392,I fill up the contest of Rs 35 but after match start it's showing there is no contest filled,cannot_see_joined_contests
+393,Bad feedback,feedback
+394,my balance is deducted more than to entry please refund my balance,account_balance_deducted
+395,Call me 9876543210,contact_number
+396,Today match points not updated,points_not_updated
+401,Hello is anyone there???,presence
+404,You fraud,fake_teams
+409,Very bad experience,criticism
+417,Thankyou,thanks
+419,"I played the match yesterday, but the results have not come yet?.",points_not_updated
+423,Point worng,wrong_scores
+425,Can you call me please,contact_number
+430,Point calculation is wrong of current cricket match,wrong_scores
+439,AParappugouder take 1 wicket in current  tdg fcf match but you not count th point please check,wrong_scores
+445,I did the football match yesterday but the result has not come yet sir,points_not_updated
+446,When was my withdrawal,withdrawal_status
+454,I want to talk an assistant,chat_with_an_agent
+456,Froud app,fake_teams
+457,Suddenly balance gone,chat_with_an_agent
+458,"Tp-w vs ct-w basketball match;
+Wrong points updated, s rou points not updated",wrong_scores
+459,My withdrawal Date confrom,withdrawal_time
+461,Win money not receive,winnings
+462,Y the football team cesar Julio points not updated he scored a goal and assist,points_not_updated
+466,Total money deposited and total money won,check_deposit_status
+467,Football result declared problem,wrong_scores
+468,For first deposit I didn’t received the cash bonus,chat_with_an_agent
+474,Point distribution is not correct Taiwan t10 match,wrong_scores
+475,Regarding surprise bonus,types_bonus
+477,Hi today t10 league 5team selected but bonus 33 rupees not come,chat_with_an_agent
+479,Hello sir help me,capabilities
+480,200 rupuye amaunt no add my wallet,winnings
+481,I join 5 team in Taipei t10 but bonus is not given yet,chat_with_an_agent
+483,Contest cheat,fake_teams
+484,Profile picture how to change,change_profile_team_details
+486,Score updated incorrect,wrong_scores
+489,Please complete football game result,points_not_updated
+490,pan card verifi no success,verify_pan
+496,tie in head to head,what_if_theres_a_tie
+498,why winning amount is less in head to head match,less_winnings_amount
+499,Last balance was 11800.. had won one  contest 150 is showimg as winning but not credited yet,winnings
+500,Chat with agrnt,chat_with_an_agent
+501,chat with customer service representative,chat_with_an_agent
+503,T10 cricket match Charles Heyward Get 2 wickets But I will not get points,points_not_updated
+504,T10 match between TDCC and Titans points not updated correctly,wrong_scores
+510,My account verfiy,account_not_verified
+513,"Sir if you don't distribute yesterday winning amount. Then how can participate next tournament
+Which is about to start at 7 am today.",winnings
+514,Football winning,winnings
+517,Shahzad Khan Muhamma 1 Wickets in current match Sir.  But Points not added.  Check it Sir,points_not_updated
+518,You are a cheater,fake_teams
+519,I have joined contest but not show my contest,cannot_see_joined_contests
+526,"I played the match yesterday, but the results have not come yet",points_not_updated
+536,How to use signup bonus amount,signup_bonus
+538,I want change my PAN CARD DETAILS,delete_pan_card
+540,How to remove pan card,delete_pan_card
+542,how many points for a catch?,how_points_calculated
+544,The current points tally between FCF and TDG is not updated,points_not_updated
+545,Sir you are giving wrong points in cricket,points_not_updated
+546,A parappagoudar 1 wicket but not point updated please updated wicket point,points_not_updated
+547,Point was not update properly please check and update the live famr,points_not_updated
+548,Sir not update point  my 2 cricketer,points_not_updated
+550,In today march between FCC AND TDCC..PLAYERS A LIU is in my team and he is playing well but his points are not updated,points_not_updated
+553,Please distribution the winning amount.,winnings
+555,"Yesterday I joined the contest in football, but the result was not announced yet",points_not_updated
+562,Withdraw fast my account,instant_withdrawal
+564,I earn 214.But win 300,less_winnings_amount
+565,Any kind of first deposit bonus offer is there or not,offers_and_referrals
+569,I have withdrawn 300rs but in my wallet it shows success but in credit in my bank account,withdrawal_status
+571,Public contests,types_contests
+572,I want to caht with customer caee,contact_number
+574,No call me,contact_number
+575,Why you are not declared result yesterday football match,points_not_updated
+576,Where gone my balance,chat_with_an_agent
+579,What you will help me,capabilities
+588,Didn't get bonus yet,chat_with_an_agent
+590,Now instant withdrawal is working or not,instant_withdrawal
+591,In T10 match TDCC and Daredevils for player c hakyed has taken 2 wickets but no points added,points_not_updated
+592,one of my player take 2 wickets i t10 match but he only get 8 points how ??,how_points_calculated
+594,Why me add amount Amazon pay wallet but don't PowerPlay11 don't show wallet why,chat_with_an_agent
+601,Cheating app,fake_teams
+602,Today 10 league I am 5 teams joined match completed 33 not add amount,winnings
+603,A Khan taken a catch but point is still not updated,points_not_updated
+606,Yesterday I added Rs.100 amount but not added in PowerPlay11 wallet but deducted in my account kindly refund the amount.,deducted_amount_not_received
+612,my winning amount is less,less_winnings_amount
+614,Email verify problem,verify_email
+618,How to change mobile no,change_mobile_number
+620,Yogesh rajput point not updated on latest match,points_not_updated
+623,Winning amount sir,winnings
+626,When will come my invited amount,chat_with_an_agent
+629,why r u last t10 match not give wicket point properly???,wrong_scores
+631,Bonus I have not received,chat_with_an_agent
+639,No you not give sign up bonus,chat_with_an_agent
+640,Please give me your contect number,contact_number
+644,So where is amount,winnings
+647,My point no updates live cricket match,points_not_updated
+650,3 may withdrawl,withdrawal_status
+657,My account is under instant withdrawal,instant_withdrawal
+658,I've won first t10 contest today.. but still not get d winning money,winnings
+660,why not points update,points_not_updated
+661,Pan verify not,verify_pan
+663,Sir point not updated tomorrow football match,points_not_updated
+665,8765432190 call me,contact_number
+670,My wallet reload,check_wallet_balance
+671,My wallet amount reload,check_wallet_balance
+676,Please give cash bonous,cash_bonus
+678,How much time it takes to verify pan card,verify_pan
+679,Ok thanx,thanks
+681,"You are good agent , good behavior, good for all everything..",appreciation
+686,Fairplay violation..what I do,fairplay_violations
+688,Good morning sir,greetings_day
+689,I've not credited the winnings amount,winnings
+691,How points calculated,how_points_calculated
+693,I have unutilized bonus,unutilized_money
+694,Any offers to my account,offers_and_referrals
+696,I have submitted my bank account details but till now it not verify,bank_verification_details
+697,Scorecard are not right,wrong_scores
+701,My account is under instant withdraw l,instant_withdrawal
+702,Sir my points are 44 by calculating player points but showing only 38 y,wrong_scores
+710,"I appreciate , thanks",thanks
+712,Balance automatically deducted from my account,account_balance_deducted
+714,cash bonus offers,cash_bonus
+715,my registered number is dead so I can't get into can I add my new number,change_mobile_number
+716,"On joining a contest, the account balance from your wallet is deducted as per the below cycle 👇
+*Unutilized ➡ Cash Bonus ➡  Winnings*",account_balance_deducted
+717,My account not verified,account_not_verified
+720,Pan card not veryfy,verify_pan
+721,There was 371 wining amount is less,less_winnings_amount
+725,Now cash bonus offer,cash_bonus
+726,How to remove fairplay violation,fairplay_violations
+728,Please give me sign up bonus,chat_with_an_agent
+729,"H fan shan,w w lin two players wrong points updat2",wrong_scores
+730,Pending  withdraw money statu,withdrawal_status
+732,Send my winnings as early as possible,winnings
+739,Long time taking to football results,points_not_updated
+742,Maximum withdrawal  amount,withdrawal_intro
+746,Your point is not correct in cricket,points_not_updated
+747,I can't recieve my cashbacks for T-10,chat_with_an_agent
+748,My  mobile number 9876556789 call me,contact_number
+750,"D. Barshilia in taipei t10 live match gets a wicket , but his point not updated here",points_not_updated
+754,Sir t10 league match is complete why too late the winnigs,winnings
+757,Plz check yesterday's withdrawal and support me,withdrawal_status
+759,Give me bonus,chat_with_an_agent
+764,Thanks for all,thanks
+766,"Tp-w vs cl-w match wrong points updated,you cheating",wrong_scores
+767,I won 8 rupees but the account balance is showing 2 rupees.,chat_with_an_agent
+771,Hi PowerPlay11,greetings_day
+773,I joined 4 contests in regular play in match Dragons vs Titans but now it is showing in safe play,team_deadline
+774,"On joining a contest, the account balance from your wallet is deducted as per the below cycle 👇
+My account balance is lost",account_balance_deducted
+776,Money offers,offers_and_referrals
+787,Hey i want to change my bank account,change_bank_account
+789,My wallet reload amount 49rs,check_wallet_balance
+791,Connect an agent,chat_with_an_agent
+793,Why yesterday football match slk v ebm pending results,points_not_updated
+795,What is regular and safe contest,team_deadline
+797,My Cash bonus not received to me,chat_with_an_agent
+799,My diposit money less why,chat_with_an_agent
+800,please help i add 125 but my wallet credited 25,chat_with_an_agent
+802,Match is abandoned but amount is not get back in my wallet,match_abandoned
+803,But still it is not refunded,refund_of_added_cash
+804,Sir in basketball can you return the money if can't update the scorecard we are waiting since tomorrow,winnings
+805,Not add wining balance,winnings
+809,Hi I am Mohit,greetings_day
+812,I create team so my winning amount send,winnings
+821,My winning amount has not reflected in the wallet amount,winnings
+823,I sir deposited 26 and 12 but not showing on my wallet yet,chat_with_an_agent
+825,Last t10 match Cancelled please refund my money,match_abandoned
+828,Match abandoned but Money will not credited to my account,match_abandoned
+829,withdrawl not received,withdrawal_time
+830,Can I do instant Widhraw ?,instant_withdrawal
+836,Amount is debited from my bank account,account_balance_deducted
+837,I am change my mobile no .,change_mobile_number
+838,Just now i deposit 1222 amount ....but not shown in my wallet,chat_with_an_agent
+839,Cheng the Mobil no,change_mobile_number
+842,Frod fake,fake_teams
+843,"Tp-w vs ty-w basketball match;
+Wrong points updated, s rou not updated",wrong_scores
+847,fairplay issue,fairplay_violations
+851,Change to email how you,change_profile_team_details
+856,Next game starts at 7am but you didn't pay yesterday winner money.,winnings
+857,Sir why you are giving this type match whose score updates not have you,points_not_updated
+861,My winning amount not added in my wallet,winnings
+863,Hi I added 3000 by mistake,refund_of_wrong_amount
+864,Wallet added but why not wining ad money,winnings
+865,Basketball match Abadand amuont not riciving sir,match_abandoned
+870,Winning money not add in account,winnings
+876,Match finisher yesterday what not transfer my money this time,winnings
+878,My winning has not reflected in the wallet,winnings
+881,I was winning in points but Final score was not correct You cheated me,wrong_scores
+887,Transection related,check_deposit_status
+889,How much tax include for 8877887654,taxes_on_winnings
+893,My PAN card bank account verification please,verify_pan
+894,Nt refunded yet,refund_of_added_cash
+895,I want update my bank details,change_bank_account
+897,Pls check my account and wallet,check_wallet_balance
+898,Dear update Bank account details,change_bank_account
+901,Pan card not verify...,verify_pan
+908,Now I add but cash not show in wallet,chat_with_an_agent
+909,4 all rounder select,new_team_pattern
+910,What the hell,criticism
+913,I need agent for helo,chat_with_an_agent
+921,Instant withdrawal option is available now??,instant_withdrawal
+924,Money not add basketbal abounded jui Vs bon yesterday match,chat_with_an_agent
+927,i added 125 rupees but utilised balance shown 25 only please help me,chat_with_an_agent
+928,Tomorrow match complete but not add the money,winnings
+930,Please help me🙏🏻🙏🏻🙏🏻,capabilities
+934,Please tranfer the winning money,winnings
+935,if match suspended,match_abandoned
+950,My points for basketball ball game is not been updated .. kindly sort the problem,points_not_updated
+951,How withdrawal,withdrawal_intro
+952,I won 100rupees but yet that has not come in my winning amount,winnings
+956,What is safe contest?,team_deadline
+958,Game Play  with PowerPlay11,how_to_play
+959,Hey everyday match are abonden what is the reason,match_abandoned
+962,Yes thanks,thanks
+963,fair play complaints,fairplay_violations
+964,I want to change my mobile number as my contact number is permanently out of service,change_mobile_number
+974,"Dbr vs ktr baseball match;
+Wrong points updated",wrong_scores
+981,Surprise bonus use,types_bonus
+982,"Please distribute the money. 
+I want to participate the next tournament. 
+But I don't get my winner🏆🎉🏆 amount.",winnings
