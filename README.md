@@ -40,7 +40,7 @@ dynamic/
 
 ### Data Preprocessing(for Hint3)
 ```bash
-python datapreprocessing.py --file_name curekart_train.csv
+python preprocessing.py --file_name curekart_train.csv
 ```
 
 ### Baseline Methods
