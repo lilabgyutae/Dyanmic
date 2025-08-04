@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 ```
 dynamic/
-├── dataset/
+├── datasets/
 │   ├── Dialoglue/
 │   │   ├── hwu/
 │   │   │   ├── train_10.csv
